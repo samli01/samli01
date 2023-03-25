@@ -1,4 +1,4 @@
-![logo](https://drive.google.com/file/d/17l6lYA0zC0XKxGiRbNtvJcq2ZAt8sv2m/view?usp=share_link)
+
 <h1 align="center">Hi 👋, I'm Samim Ali</h1>
 <h3 align="center">A Learner from Nepal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
