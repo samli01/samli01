@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Coding**
 
-- 💬 Ask me about **C,java,php,HTML,CSS,JS,MySQL**
+- 💬 Ask me about **C,java,Python,php,HTML,CSS,JS,MySQL**
 
 - 📫 How to reach me **samim1999bim@gmail.com**
 
