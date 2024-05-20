@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samim Ali</h1>
 <h3 align="center">A Learner from Nepal.</h3>
 <img align="right" alt="Coding" width="400" 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+ src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samli01&label=Profile%20views&color=0e75b6&style=flat" alt="samli01" /> </p>
 
