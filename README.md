@@ -4,10 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samli01&label=Profile%20views&color=0e75b6&style=flat" alt="samli01" /> </p>
 
-- 🌱 I’m currently learning **QA skills**
+- 🌱 I’m currently developing **QA skills**
 -  Also currently developing **QA skills**
 
-- 💬 Ask me about **C,java,Python,php,HTML,CSS,JS,MySQL**
+- 💬 Ask me about **C,java,Python,php,HTML,CSS,JS,MySQL,selenium,cypress,postman,jmeter,jira**
 
 - 📫 How to reach me **samim1999bim@gmail.com**
 
